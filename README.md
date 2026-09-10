@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Janet 👋
 
-<!--
-**Janet-Oluwatoba/Janet-Oluwatoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm currently learning Data Analytics and building my skills through practical projects and hands on practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌱 Currently Learning
+- Excel
+- SQL
+- Power BI
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+
+### 📊 My Goal
+To become a skilled Data Analyst and use data to solve real world problems and support better decision making.
+
+### 📁 My Portfolio
+This GitHub profile documents my learning journey, projects, and progress in Data Analytics.
+
 -->
